@@ -1,0 +1,69 @@
+a{
+    color:aliceblue;
+    text-decoration: none;
+}
+
+.gg{
+    color: black;
+    font-size: 50px;
+    border:2px black solid;
+    background-color: #1883CF;
+    margin-left:480px;
+}
+
+.bt{
+   color: black;
+    font-size:20px;
+   border:2px black solid;
+    background-color:#1883CF;
+    
+   margin-left:632px;
+}
+
+.nachalo{
+}
+
+.menu{
+    margin-top:900px;
+    margin:0px;
+    font-size:50px;  
+}
+
+.gg1{
+    
+    border:2px solid black;
+}
+.gg1:hover{
+    background-color: red;
+}
+.gg2{
+    border:2px solid black;
+}
+.gg2:hover{
+    background-color: red;
+}
+
+.gg3{
+    border:2px solid black;
+}
+.gg3:hover{
+    background-color: red;
+}
+
+.gg4{
+   border:2px solid black;
+}
+
+.gg4:hover{
+    background-color: red;
+}
+
+.rules{
+    border:2px solid;
+    background-color: #1883CF;
+    font-size:25px;
+}
+
+.niz{
+   color:gray;
+}
